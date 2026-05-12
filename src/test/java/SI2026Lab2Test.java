@@ -1,4 +1,3 @@
-package mk.ukim.finki;
 
 import org.junit.jupiter.api.Test;
 
